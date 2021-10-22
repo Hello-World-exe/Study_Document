@@ -1,4 +1,6 @@
 1. Entity, DTO, VO 차이점 정리 #
 2. Extends 와 Implements의 차이 
-3. MapStruct
+3. MapStruct #
 4. QueryDSL 이란
+5. PostgreSQL 정리
+6. 우선순위 !!!  ->>Endpoint 까지 출력 과정 정의 
