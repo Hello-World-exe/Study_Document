@@ -1,0 +1,2 @@
+"id","created_at","auto_login","auto_login_end_date","is_sleep","last_login_social_type","line_introduce","marketing_agreement","name","password","phone","profile_path","provide_agreement","role","sleep_date","updated_at","updated_by","updated_login_type","user_id"
+1,"2021-11-15 15:32:02.641018000",0,,0,,,0,리뷰팟관리자,{bcrypt}$2a$10$vuqRjQt5fYPtAkhhtlmkkebHy0OuMI8qi2YknPxhmLgEOupiZ/oRS,,,0,0,,"2021-11-15 15:32:02.641018000",,,test
